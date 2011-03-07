@@ -32,6 +32,10 @@ Enter this into console:
 
   git clone git@github.com:curacao/pixelnine.git
 
+== Acknowledgments
+
+* <b>Ádám Fitz</b> — the idea of Pixelnine and help with testing skin 
+
 == Feedback
 
 You are able to send me emails on <tt>kirill@silin.in</tt>.
