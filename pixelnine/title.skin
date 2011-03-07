@@ -5,9 +5,9 @@ Email=kirill@silin.in
 Icon=/icon.png
 
 [Border]
-red=181
-green=203
-blue=211
+red=83
+green=83
+blue=83
 width=1
 
 [Text]
