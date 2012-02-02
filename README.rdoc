@@ -4,7 +4,7 @@
 
 == Description
 
-{Outward}[https://github.com/kyrylo/pixelnine/raw/master/screenshots/pixelnine-1.png]
+{Outward}[http://img-fotki.yandex.ru/get/5302/curacaothe.1/0_525c2_3f7f0f7_orig.png]
 
 Pixelnine is an {Yakuake}[http://yakuake.kde.org/] skin. I merely dislike all
 Yakuake skins that ever seen before (especially, the default one) and decided to
