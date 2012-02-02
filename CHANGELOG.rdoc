@@ -4,5 +4,5 @@
 
 = 0.2.0 (March 7, 2011)
 
-* Initial release. Forked from {Pixelate}[https://github.com/curacao/pixelate].
+* Initial release. Forked from {Pixelate}[https://github.com/kyrylo/pixelate].
 
