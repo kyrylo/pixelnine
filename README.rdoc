@@ -4,9 +4,7 @@
 
 == Description
 
-{Screenshot1}[https://github.com/kyrylo/pixelnine/raw/master/screenshots/pixelnine-1.png]
-{Screenshot2}[https://github.com/kyrylo/pixelnine/raw/master/screenshots/pixelnine-2.png]
-{Screenshot}[http://kde-look.org/CONTENT/content-pre1/140118-1.png]
+{Outward}[https://github.com/kyrylo/pixelnine/raw/master/screenshots/pixelnine-1.png]
 
 Pixelnine is an {Yakuake}[http://yakuake.kde.org/] skin. I merely dislike all
 Yakuake skins that ever seen before (especially, the default one) and decided to
