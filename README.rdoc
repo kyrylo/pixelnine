@@ -1,42 +1,48 @@
 = Pixelnine
 
-Pixelnine is an {Yakuake}[http://yakuake.kde.org/] skin. I merely dislike all Yakuake skins that ever 
-seen before (especially, the default one) and decided to make my own. Then I 
-thought, that sharing my theme is a good way to make happy other Yakuake users.
-Use it, change it, sell it. Do whatever you want.
+* https://www.github.com/kyrylo/pixelnine
 
-Pixelnine is based on {Pixelate}[https://github.com/curacao/pixelate/]. 
+== Description
 
-{Screenshot1}[http://img-kiev.fotki.yandex.ru/get/5302/curacaothe.1/0_525c2_3f7f0f7_orig] | {Screenshot2}[http://img-kiev.fotki.yandex.ru/get/4404/curacaothe.1/0_525c3_86af462_orig]
+{Screenshot1}[http://img-kiev.fotki.yandex.ru/get/5302/curacaothe.1/0_525c2_3f7f0f7_orig]
+{Screenshot2}[http://img-kiev.fotki.yandex.ru/get/4404/curacaothe.1/0_525c3_86af462_orig]
+
+Pixelnine is an {Yakuake}[http://yakuake.kde.org/] skin. I merely dislike all
+Yakuake skins that ever seen before (especially, the default one) and decided to
+make my own. Then I thought, that sharing my theme is a good way to make happy
+other Yakuake users. Use it, change it, sell it. Do whatever you want.
+
+Pixelnine is based on {Pixelate}[https://github.com/kyrylo/pixelate/].
 
 == Installation
 
-1. {Download}[http://kde-look.org/content/show.php?content=139649] theme
-2. Launch Yakuake
-3. Press "Open Menu" button, choose "Configure Yakuake..." option, locate to "Appearance" tab, 
-   press "Install skin..." button there, navigate to the 
-   downloaded archive and open it
-4. Choose "Pixelnine" skin and "Apply" it
+1. {Download}[http://kde-look.org/content/show.php?content=139649] theme;
+2. Launch Yakuake;
+3. Press "Open Menu" button, choose "Configure Yakuake..." option, locate to
+   "Appearance" tab, press "Install skin..." button there, navigate to the
+   downloaded archive and open it;
+4. Choose "Pixelnine" skin and "Apply" it.
 
 == Directory structure
 
-There are two directories and three files at top-level. The <em>pixenine</em> directory contain all PNGs. You can manually
-zip them to <em>tar.gz</em> archive. When you do that, you'll have a skin package. To install it, read <em>step 2</em> of installation guide.
-The <em>xcf</em> directory holds GIMP files. This is where you come in as designer. <em>Xcf's</em> directory structure is similar to <em>pixelnine</em>.
-After editing the <em>.xcf</em>, you have to export PNG to <em>pixelate</em> directory. Make an archive from this directory and then install it.
-Oh, and don't forget about two configuration <em>.skin</em> files.
-
-== Cloning repository
-
-Enter this into console:
-
-  git clone git@github.com:curacao/pixelnine.git
+There are two directories and three files at top-level. The <em>pixenine</em>
+directory contain all PNGs. You can manually zip them to <em>tar.gz</em>
+archive. When you do that, you'll have a skin package. To install it, read
+<em>step 2</em> of installation guide. The <em>xcf</em> directory holds GIMP
+files. This is where you come in as designer. <em>Xcf's</em> directory structure
+is similar to <em>pixelnine</em>. After editing the <em>.xcf</em>, you have to
+export PNG to <em>pixelate</em> directory. Make an archive from this directory
+and then install it. Oh, and don't forget about two configuration <em>.skin</em>
+files.
 
 == Acknowledgments
 
-* <b>Ádám Fitz</b> — the idea of Pixelnine and help with testing skin 
+* Ádám Fitz (the idea of Pixelnine and help with testing skin)
 
-== Feedback
+== Author
 
-You are able to send me emails on <tt>kirill@silin.in</tt>.
+Kyrylo Silin (<tt>kyrylosilin@gmail.com</tt>)
 
+== License
+
+This software is distributed under MIT License. See LICENSE for details.
